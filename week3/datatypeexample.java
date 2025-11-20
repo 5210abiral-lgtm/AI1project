@@ -60,6 +60,7 @@ public class datatypeexample
         
         float SI= ((float)Principal*year*rate)/100;
         System.out.println(SI);
+        System.out.println("bye");
         
         
         
